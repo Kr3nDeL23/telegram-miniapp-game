@@ -13,8 +13,3 @@
   <li>The ability to create challenges for users with prizes</li>  
 </ul>
 <hr>
-<div style="display: flex;">
-  <img width="150px" src="https://github.com/mr-mhrb/bincoin-client/blob/main/images/main.jpg">
-  <img width="150px" src="https://github.com/mr-mhrb/bincoin-client/blob/main/images/join_squad.jpg">
-  <img width="150px" src="https://github.com/mr-mhrb/bincoin-client/blob/main/images/leaderboard.jpg">
-</div>
